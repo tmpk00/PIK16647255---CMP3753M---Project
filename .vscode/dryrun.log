@@ -1,0 +1,12 @@
+C:\Program Files (x86)\GnuWin32\bin\make.exe -f C:\Users\tmpk0\Downloads\pylambda-master\Makefile --dry-run --always-make --keep-going --print-directory
+make: Entering directory `c:/Users/tmpk0/OneDrive/Documents/Projects/ThirdYearProject'
+ 
+make: C:\Users\tmpk0\Downloads\pylambda-master\Makefile: No such file or directory
+
+make: *** No rule to make target `C:\Users\tmpk0\Downloads\pylambda-master\Makefile'.
+make: Failed to remake makefile `C:\Users\tmpk0\Downloads\pylambda-master\Makefile'.
+
+make: Leaving directory `c:/Users/tmpk0/OneDrive/Documents/Projects/ThirdYearProject'
+ 
+make: *** No targets specified and no makefile found.  Stop.
+
