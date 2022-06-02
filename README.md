@@ -1,0 +1,4 @@
+- PIK16647255
+- CMP3753M - Project
+- Final Year Computer Science Project
+- Sentiment Analysis of Twitter Data
